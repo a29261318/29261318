@@ -95,7 +95,7 @@ body {
 
 hr {
   margin: 1rem 0;
-  color: inherit;
+  color: white;
   background-color: currentColor;
   border: 0;
   opacity: 0.25;
@@ -11474,7 +11474,7 @@ body {
 
 #mainNav {
   min-height: 3.5rem;
-  background-color: #fff;
+  background-color: lightsteelblue;
 }
 #mainNav .navbar-toggler {
   font-size: 80%;
